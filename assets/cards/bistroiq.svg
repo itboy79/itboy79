@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="180" viewBox="0 0 800 180" role="img" aria-label="BISTROIQ">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#131C28"/><stop offset="100%" stop-color="#0A0F16"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="798" height="178" rx="14" fill="url(#bg)" stroke="#1E2A38" stroke-width="1.5"/>
+  <g transform="translate(110,90.0)">
+    <!-- plate -->
+    <ellipse cx="0" cy="32" rx="46" ry="9" fill="#0D1420" stroke="#FB923C" stroke-width="1.8"/>
+    <!-- analytics bars rising from the plate -->
+    <rect x="-24" width="11" rx="2.5" fill="#7C3A12" y="14" height="14">
+      <animate attributeName="height" values="14;26;14" dur="2.6s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="14;2;14" dur="2.6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="-6" width="11" rx="2.5" fill="#FB923C" y="2" height="26">
+      <animate attributeName="height" values="26;40;26" dur="2.6s" begin="0.4s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="2;-12;2" dur="2.6s" begin="0.4s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="12" width="11" rx="2.5" fill="#FDBA74" y="-8" height="36">
+      <animate attributeName="height" values="36;52;36" dur="2.6s" begin="0.8s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="-8;-24;-8" dur="2.6s" begin="0.8s" repeatCount="indefinite"/>
+    </rect>
+    <!-- cloche knob sparkle -->
+    <path d="M38 -34 l 3 7 7 3 -7 3 -3 7 -3 -7 -7 -3 7 -3 Z" fill="#FDBA74">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="1.8s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <text x="215" y="78.0" font-family="Georgia, 'Times New Roman', serif" font-size="34" letter-spacing="2" fill="#E7EDF3">BISTROIQ</text>
+  <text x="215" y="108.0" font-family="Menlo, Consolas, monospace" font-size="13" letter-spacing="1" fill="#8FA0B0">AI-first restaurant OS &#8212; from menu to HACCP</text>
+  <rect x="215" y="122.0" width="54" height="3" rx="1.5" fill="#FB923C"/>
+  <text x="776" y="34" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="11" letter-spacing="2" fill="#FB923C">LIVE</text>
+</svg>
