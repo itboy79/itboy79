@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="180" viewBox="0 0 800 180" role="img" aria-label="BRIGADE">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#131C28"/><stop offset="100%" stop-color="#0A0F16"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="798" height="178" rx="14" fill="url(#bg)" stroke="#1E2A38" stroke-width="1.5"/>
+  <g transform="translate(110,94)">
+    <!-- tickets from the chef to the brigade -->
+    <line x1="-38" y1="0" x2="34" y2="-38" stroke="#E8B45A" stroke-width="2" stroke-dasharray="6 5">
+      <animate attributeName="stroke-dashoffset" from="0" to="-44" dur="1.8s" repeatCount="indefinite"/>
+    </line>
+    <line x1="-38" y1="0" x2="42" y2="0" stroke="#E8B45A" stroke-width="2" stroke-dasharray="6 5">
+      <animate attributeName="stroke-dashoffset" from="0" to="-44" dur="1.8s" begin="0.3s" repeatCount="indefinite"/>
+    </line>
+    <line x1="-38" y1="0" x2="34" y2="38" stroke="#E8B45A" stroke-width="2" stroke-dasharray="6 5">
+      <animate attributeName="stroke-dashoffset" from="0" to="-44" dur="1.8s" begin="0.6s" repeatCount="indefinite"/>
+    </line>
+    <!-- the chef (with toque) -->
+    <circle cx="-46" cy="0" r="13" fill="#0A0F16" stroke="#E8B45A" stroke-width="2.5">
+      <animate attributeName="r" values="13;15;13" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M-55 -17 V-24 Q-55 -30 -50 -30 Q-49 -34 -46 -34 Q-43 -34 -42 -30 Q-37 -30 -37 -24 V-17 Z"
+          fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1"/>
+    <rect x="-56" y="-17" width="20" height="3.5" rx="1.5" fill="#E2E8F0"/>
+    <!-- the cooks, firing in sequence -->
+    <g fill="#0A0F16" stroke="#FBD38D" stroke-width="2">
+      <circle cx="42" cy="-38" r="8"><animate attributeName="stroke" values="#FBD38D;#E8B45A;#FBD38D" dur="1.8s" repeatCount="indefinite"/></circle>
+      <circle cx="50" cy="0" r="8"><animate attributeName="stroke" values="#FBD38D;#E8B45A;#FBD38D" dur="1.8s" begin="0.3s" repeatCount="indefinite"/></circle>
+      <circle cx="42" cy="38" r="8"><animate attributeName="stroke" values="#FBD38D;#E8B45A;#FBD38D" dur="1.8s" begin="0.6s" repeatCount="indefinite"/></circle>
+    </g>
+    <!-- flames at the stations -->
+    <g fill="none" stroke="#F59E0B" stroke-width="1.6" stroke-linecap="round">
+      <path d="M42 -50 q 3 -6 -1 -11"><animate attributeName="opacity" values="0.9;0.2;0.9" dur="1.4s" repeatCount="indefinite"/></path>
+      <path d="M50 -12 q 3 -6 -1 -11"><animate attributeName="opacity" values="0.3;1;0.3" dur="1.7s" repeatCount="indefinite"/></path>
+      <path d="M42 26 q 3 -6 -1 -11"><animate attributeName="opacity" values="0.8;0.25;0.8" dur="1.5s" repeatCount="indefinite"/></path>
+    </g>
+  </g>
+  <text x="215" y="78" font-family="Georgia, 'Times New Roman', serif" font-size="34" letter-spacing="2" fill="#E7EDF3">BRIGADE</text>
+  <text x="215" y="108" font-family="Menlo, Consolas, monospace" font-size="13" letter-spacing="1" fill="#8FA0B0">one chef. many cooks. nothing leaves the pass untasted.</text>
+  <rect x="215" y="122" width="54" height="3" rx="1.5" fill="#E8B45A"/>
+  <text x="776" y="34" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="11" letter-spacing="2" fill="#E8B45A">OPEN SOURCE</text>
+</svg>
