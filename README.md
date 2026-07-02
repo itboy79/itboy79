@@ -27,7 +27,7 @@ Today I'm:
 
 Oh, and I distill my own **Ginger Thyme** liqueur. Ginger, thyme, dry. My name is literally on the bottle — that's how much I stand behind what I ship. And remember: no matter your timezone, *it's always Ginger Thyme somewhere.* 🕰️
 
-![Ginger Thyme — it's always ginger thyme somewhere](assets/gingerthyme.svg)
+[![Ginger Thyme — it's always ginger thyme somewhere](assets/gingerthyme.svg)](assets/gingerthyme.jpg)
 
 ---
 
