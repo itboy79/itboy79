@@ -19,13 +19,15 @@ I ran a gourmet social club in Milan. I write production code. I've deployed sma
 
 Today I'm:
 
-- **CPTO** @ Strategy X / Axentra — venture building, product vision, engineering roadmap
-- **Co-Founder** @ BistroIQ — AI-powered restaurant intelligence
 - **Founder** @ [MiraiLab](https://mirailab.it) — blockchain & AI consulting, trained teams for Fastweb Digital Academy and Il Sole 24 Ore
+- **Co-Founder** @ [BistroIQ](https://bistroiq.com) — AI-powered restaurant intelligence
 - **Co-Founder & Host** @ [Crypto Confidential](https://www.youtube.com/channel/UCxJcRPk2BkYT4Tihz9kxi0w) — the world's first Crypto & AI food talk show
-- **Solo builder** of everything below 👇
+- **CPTO** @ Strategy X / Axentra — venture building, product vision, engineering roadmap
+- **Solo builder** of (almost) everything below 👇
 
-Oh, and I distill my own **Ginger Thyme** liqueur. Ginger, thyme, dry. My name is literally on the bottle — that's how much I stand behind what I ship.
+Oh, and I distill my own **Ginger Thyme** liqueur. Ginger, thyme, dry. My name is literally on the bottle — that's how much I stand behind what I ship. And remember: no matter your timezone, *it's always Ginger Thyme somewhere.* 🕰️
+
+![Ginger Thyme — it's always ginger thyme somewhere](assets/gingerthyme.svg)
 
 ---
 
@@ -39,6 +41,14 @@ Oh, and I distill my own **Ginger Thyme** liqueur. Ginger, thyme, dry. My name i
 **Describe it. Bleeb builds it.** From one sentence in plain language to a publishable web app: real automation connectors (Slack, Email, Sheets, Notion, HTTP), RAG-powered project memory, transparent credits. Bring your own keys or run local models — your keys, your models, Bleeb's brain.
 
 `AI agents` · `RAG` · `Multi-model: OpenAI / Anthropic / Ollama` · `Visual editor`
+
+### 🍽️ [BistroIQ](https://bistroiq.com) · Live
+
+[![BistroIQ](assets/cards/bistroiq.svg)](https://bistroiq.com)
+
+**The AI-first restaurant OS.** A modular platform covering the whole restaurant lifecycle: digital menu, orders, kitchen display, floor management, inventory, HACCP compliance and analytics — with machine learning and blockchain traceability baked into the core. Co-founded it because I've run the kitchen side myself: this is the tool I wish I'd had.
+
+`AI-first` · `Modular platform` · `KDS` · `HACCP` · `ML + blockchain traceability`
 
 ### 🔮 [Rehoboam](https://rehoboam.it) · In development
 
@@ -119,9 +129,6 @@ Oh, and I distill my own **Ginger Thyme** liqueur. Ginger, thyme, dry. My name i
 ## 📊 Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itboy79&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itboy79&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=itboy79&theme=tokyonight&hide_border=true)
 
