@@ -37,7 +37,6 @@ Oh, and I distill my own **Ginger Thyme** liqueur. Ginger, thyme, dry. My name i
 
 [![Bleeb](assets/cards/bleeb.svg)](https://bleeb.dev)
 
-
 **Describe it. Bleeb builds it.** From one sentence in plain language to a publishable web app: real automation connectors (Slack, Email, Sheets, Notion, HTTP), RAG-powered project memory, transparent credits. Bring your own keys or run local models — your keys, your models, Bleeb's brain.
 
 `AI agents` · `RAG` · `Multi-model: OpenAI / Anthropic / Ollama` · `Visual editor`
@@ -54,26 +53,23 @@ Oh, and I distill my own **Ginger Thyme** liqueur. Ginger, thyme, dry. My name i
 
 [![Rehoboam](assets/cards/rehoboam.svg)](https://rehoboam.it)
 
-
 **A visual Claude Code.** A knowledge OS with a semantic 3D Sphere, on-device voice, and multi-agent orchestration powered by **AgentEngine** — my own multi-model orchestrator. Local-first (Tauri 2 + Rust, Mac & Android), optional EU-hosted sync. Powerful enough for power users, simple enough for an 85-year-old. Literally — it has a Simple Mode.
 
 `Tauri 2` · `Rust` · `Supabase EU` · `Multi-agent AI` · `On-device voice`
 
-### 🦾 [Rehoboam Skill](https://github.com/itboy79/rehoboam) · Open Source
+### 👨‍🍳 [Brigade](https://github.com/itboy79/brigade) · Open Source
 
-[![Rehoboam Skill](assets/cards/rehoboam-skill.svg)](https://github.com/itboy79/rehoboam)
+[![Brigade](assets/cards/brigade.svg)](https://github.com/itboy79/brigade)
 
+**One chef writes the menu. A brigade cooks it. Nothing leaves the pass untasted.** Formerly known as Rehoboam — the machine learned to cook. A multi-agent build orchestrator for Claude Code, run like a professional kitchen: the chef writes the tickets (and never peels the potatoes), parallel cooks fire them at isolated stations (git worktrees), and a fresh-palate pass tastes the real diff — not the cook's story — before anything ships. Provider-agnostic: Anthropic, any OpenAI-compatible API, or local Ollama models. MIT licensed. *Escoffier invented multi-agent orchestration in 1903; we just added git worktrees.*
 
-**One head. Many arms. Zero divergence.** 🦾 A multi-agent build orchestrator for Claude Code: the head plans and writes briefs (never code), parallel executor arms build in isolated git worktrees, and a fresh-context reviewer verifies before anything merges. Provider-agnostic — run it on Anthropic, any OpenAI-compatible API, or local Ollama models. MIT licensed.
+[![Repo](https://img.shields.io/badge/itboy79/brigade-View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/itboy79/brigade)
 
-[![Repo](https://img.shields.io/badge/itboy79/rehoboam-View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/itboy79/rehoboam)
-
-`Claude Code skill` · `Multi-agent orchestration` · `Git worktrees` · `Anthropic / OpenAI / Ollama`
+`Claude Code skill` · `/brigade` · `Multi-agent orchestration` · `Git worktrees` · `Anthropic / OpenAI / Ollama`
 
 ### 👻 [Life Book](https://lifeboo.it) · In development
 
 [![Life Book](assets/cards/lifebook.svg)](https://lifeboo.it)
-
 
 **A life expectancy calculator with an Italian sense of humor.** An ironic PWA with a ghost mascot named Boo. It tells you how long you've got — and how to spend it better.
 
@@ -82,7 +78,6 @@ Oh, and I distill my own **Ginger Thyme** liqueur. Ginger, thyme, dry. My name i
 ### 🪦 [Are You Gone?](https://areyougone.it) · Live
 
 [![Are You Gone?](assets/cards/areyougone.svg)](https://areyougone.it)
-
 
 **An encrypted Dead Man's Switch.** Real-time engagement mechanics, end-to-end encryption, and just the right amount of irony. Life Book's natural companion: first you learn how long you've got, then you plan accordingly.
 
