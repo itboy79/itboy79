@@ -67,6 +67,16 @@ Oh, and I distill my own **Ginger Thyme** liqueur. Ginger, thyme, dry. My name i
 
 `Claude Code skill` · `/brigade` · `Multi-agent orchestration` · `Git worktrees` · `Anthropic / OpenAI / Ollama`
 
+### 🧠 [Cerebro](https://github.com/itboy79/cerebro) · Open Source
+
+[![Cerebro](assets/cards/cerebro.svg)](https://github.com/itboy79/cerebro)
+
+**A brain for your repo. Every file a neuron, the wiki its connectome.** Point it at a codebase and it scans every file, then writes a Karpathy-style wiki-OS — numbered, LLM-first markdown pages that become the single source of truth. From then on every task reads the wiki and ends by syncing it, and any gap between wiki and code is surfaced as *drift* instead of silently papered over. A protocol, not a product: plain markdown and file reads, so it runs identically on Claude Code, Cursor, Aider, any API, or a local Ollama model — no keys, no dependencies. Brigade's sibling: on huge repos it borrows Brigade's cooks as delegates.
+
+[![Repo](https://img.shields.io/badge/itboy79/cerebro-View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/itboy79/cerebro)
+
+`Claude Code skill` · `/cerebro` · `Karpathy wiki-OS` · `Model-agnostic` · `Zero dependencies`
+
 ### 👻 [Life Book](https://lifeboo.it) · In development
 
 [![Life Book](assets/cards/lifebook.svg)](https://lifeboo.it)
