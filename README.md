@@ -96,7 +96,7 @@ Oh, and I distill my own **Ginger Thyme** liqueur. Ginger, thyme, dry. My name i
 ## 🧪 Shipped & cooking
 
 [![TapTapTune](assets/cards/taptaptune.svg)](https://taptaptune.com)
-[![Gestune](assets/cards/gestune.svg)](https://gestune.com)
+[![Gestune](assets/cards/gestune.svg)](https://www.gestune.com)
 [![Conformia](assets/cards/conformia.svg)](https://conformia.app)
 [![Naiad](assets/cards/naiad.svg)](https://heynaiad.com)
 [![FlorestaNFT](assets/cards/florestanft.svg)](https://demo.florestanft.com)
